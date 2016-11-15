@@ -54,6 +54,8 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
 
+mapid { height: 180px; }
+
 body {
   background-color: #fff;
   padding:50px;
